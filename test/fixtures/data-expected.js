@@ -1,0 +1,1 @@
+'use strict';!function(e){for(c=func(),b=d,c++;a<10;a++)alert(a);var d=1;for(;a<10;a++)alert(a);var c=2;for(var a=1;a<10;a++)alert(a);return c}()

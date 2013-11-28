@@ -1,0 +1,37 @@
+{
+  "name": "mangle-stream",
+  "version": "1.0.0",
+  "description": "mangle a stream through esmangle",
+  "main": "mangle-stream.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Terin Stock <terinjokes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "~1.0.4",
+    "esmangle": "0.0.17",
+    "escodegen": "~1.0.0",
+    "deep-extend": "~0.2.6",
+    "readable-stream": "~1.0.17"
+  },
+  "devDependencies": {
+    "chai": "^1.8.1",
+    "mocha": "^1.14.0",
+    "concat-stream": "^1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/terinjokes/mangle-stream"
+  },
+  "keywords": [
+    "esmangle"
+  ],
+  "bugs": {
+    "url": "https://github.com/terinjokes/mangle-stream/issues"
+  },
+  "homepage": "https://github.com/terinjokes/mangle-stream"
+}
