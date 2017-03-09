@@ -2,6 +2,8 @@
 
 ## Information
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/terinjokes/mangle-stream.svg)](https://greenkeeper.io/)
+
 <table>
 <tr>
 <td>Package</td><td>mangle-stream</td>
